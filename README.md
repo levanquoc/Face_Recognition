@@ -1,6 +1,6 @@
 
 # Add masks for people 
-###### This repository recorded my Add mask Processing journey
+This repository recorded my Add mask Processing journey
 ## Getting started
 
 ### Write something
