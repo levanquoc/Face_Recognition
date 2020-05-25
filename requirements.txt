@@ -1,0 +1,4 @@
+cv2
+os 
+dlib
+face_recognition
