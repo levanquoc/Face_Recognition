@@ -1,4 +1,4 @@
-cv2
+cv2==4.2
 os 
-dlib
+dlib==19.19
 face_recognition
